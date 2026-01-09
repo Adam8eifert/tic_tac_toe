@@ -1,10 +1,3 @@
-Perfektní, takže to ještě upravíme: přidáme zmínku o **`requirements.txt`** (s balíčky `typing`, `colorama`) a do sekce Autor dopíšeme, že projekt vznikl v rámci kurzu Engeto.
-
----
-
-# 📄 README.md (upravená verze)
-
-````markdown
 # Tic Tac Toe / Piškvorky
 
 ## 📌 Popis projektu (CZ)
@@ -136,8 +129,6 @@ Result: Player X wins!
 * Jméno / Name: Adam Seifert
 * Kontakt / Contact: [seifert.promotion@gmail.com](mailto:seifert.promotion@gmail.com)
 * Projekt vznikl v rámci kurzu **Datový Analytik s Pythonem** od [Engeto](https://engeto.cz/)
-
-```
 
 
 
